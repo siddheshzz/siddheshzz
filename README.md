@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4E1BAQH0BFd3XuiBtg/company-background_10000/0/1527796577908?e=2147483647&v=beta&t=9hyEKpSVElTeJ-PRDFVOFeyeisLOzwnVYQX8lfE5PqI)
+![MasterHead]()
 
 
 <h1 align="center">Hi 👋, I'm Siddhesh Zope</h1>
