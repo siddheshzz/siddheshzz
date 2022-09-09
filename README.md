@@ -1,4 +1,4 @@
-![MasterHead](https://de.scalable.capital/images/kcbf79ije7q7/2KKrBpR5eAu52gXFY6gdBs/d1f98431b963578f653e2b588dd305c0/hello_world_new_black.png)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4E1BAQH0BFd3XuiBtg/company-background_10000/0/1527796577908?e=2147483647&v=beta&t=9hyEKpSVElTeJ-PRDFVOFeyeisLOzwnVYQX8lfE5PqI)
 
 
 <h1 align="center">Hi 👋, I'm Siddhesh Zope</h1>
