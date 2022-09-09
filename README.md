@@ -1,11 +1,11 @@
-[![MasterHead](https://de.scalable.capital/images/kcbf79ije7q7/2KKrBpR5eAu52gXFY6gdBs/d1f98431b963578f653e2b588dd305c0/hello_world_new_black.png)]
+![MasterHead](https://de.scalable.capital/images/kcbf79ije7q7/2KKrBpR5eAu52gXFY6gdBs/d1f98431b963578f653e2b588dd305c0/hello_world_new_black.png)
 
 
 <h1 align="center">Hi 👋, I'm Siddhesh Zope</h1>
 <h3 align="center">Software developer, I'm. a computer programmer who is skilled professional who likes to codes, tests and debug. Passionate about web development.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F3848914-Programmer-Thomas&tbnid=ZmOH4FBlhx83-M&vet=10CA8QxiAoAWoXChMI6L_ziM6H-gIVAAAAAB0AAAAAEFI..i&docid=JaoX1Z03zMxihM&w=800&h=600&itg=1&q=gif%20image%20programmer&hl=en-US&ved=0CA8QxiAoAWoXChMI6L_ziM6H-gIVAAAAAB0AAAAAEFI#imgrc=zhjSEq0Xd_DH7M&imgdii=BWHrae2eDlAMxM">
+<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/10/Boy-Working-From-Home.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshzz&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshzz" /> </p>
 
