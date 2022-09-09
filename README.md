@@ -1,4 +1,4 @@
-![MasterHead](https://www.citypng.com/public/uploads/preview/horizontal-dark-blue-line-transparent-background-31631830500csxuuxyngg.png)
+![MasterHead](https://user-images.githubusercontent.com/20864934/112645749-933b4000-8e25-11eb-8fc6-5c57c5e6e1ba.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Siddhesh Zope</h1>
