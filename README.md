@@ -21,11 +21,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddheshzz?tab=repositories](https://github.com/siddheshzz?tab=repositories)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, DS, Javascript, CRM**
 
 - 📫 How to reach me **siddheshzope1023@gmail.com**
 
-- ⚡ Fun fact **I think I love more than coffee**
+- ⚡ Fun fact **I think I love to sleep more than coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
