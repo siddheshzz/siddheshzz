@@ -19,13 +19,13 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/siddheshzz?tab=repositories](https://github.com/siddheshzz?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/siddheshzz?tab=repositories)
 
 - 💬 Ask me about **Python, DS, Javascript, CRM**
 
 - 📫 How to reach me **siddheshzope1023@gmail.com**
 
-- ⚡ Fun fact **I think I love to sleep more than coffee**
+- ⚡ Fun fact **I think I love connecting with new folks!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
