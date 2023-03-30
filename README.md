@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/10/Boy-Working-From-Home.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshzz&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshzz" /> </p>
+<!-- Write your comments here <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshzz&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshzz" /> </p>-->
 
 <p align="left"> <a href="https://twitter.com/sid_zope" target="blank"><img src="https://img.shields.io/twitter/follow/sid_zope?logo=twitter&style=for-the-badge" alt="sid_zope" /></a> </p>
 
