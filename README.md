@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Siddhesh Zope</h1>
-<h3 align="center">Software developer, I'm. a computer programmer who is skilled professional who likes to codes, tests and debug. Passionate about web development.</h3>
+<h3 align="center">Software developer, I'm. a computer programmer who is skilled professional who likes to codes, tests and debug. Passionate about development.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/10/Boy-Working-From-Home.gif">
@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/sid_zope" target="blank"><img src="https://img.shields.io/twitter/follow/sid_zope?logo=twitter&style=for-the-badge" alt="sid_zope" /></a> </p>
 
-- 🔭 I’m currently working on **E commerce**
+- 🔭 I’m currently working on **Learning Blockchain**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **MERN, Django**
+- 👯 I’m looking to collaborate on **Rust**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **Substrate, Solana**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/siddheshzz?tab=repositories)
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **siddheshzope1023@gmail.com**
 
-- ⚡ Fun fact **I think I love connecting with new folks!**
+- ⚡ Fun fact **I think I love ⛰️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
