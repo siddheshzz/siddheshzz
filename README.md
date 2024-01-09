@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sid_zope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sid_zope" height="30" width="40" /></a>
+<a href="https://twitter.com/sid_zope" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://cdn.iconscout.com/icon/free/png-512/free-twitter-241-721979.png?f=webp&w=256)" alt="sid_zope" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddhesh-zope-752321163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh-zope-752321163" height="30" width="40" /></a>
 </p>
 
