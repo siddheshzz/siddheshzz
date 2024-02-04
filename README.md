@@ -66,9 +66,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshzz&layout=compact)
+<a href="https://github.com/siddheshzz">
+  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siddheshzz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshzz&layout=compact)
 </p>
 
