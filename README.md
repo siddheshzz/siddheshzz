@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Rust**
 
-- 🤝 I’m looking for help with **Substrate, Solana**
+- 🤝 I’m looking for help with **ethers-rs foundry blockchain**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/siddheshzz?tab=repositories)
 
