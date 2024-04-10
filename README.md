@@ -70,7 +70,7 @@
 
 <p align="center">
 <a href="https://github.com/siddheshzz">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siddheshzz&langs_count=8&layout=compact&hide=javascript+html+css&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siddheshzz&langs_count=8&layout=compact&hide=javascript,html,css&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siddheshzz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siddheshzz&layout=compact&exclude_lang=javascript+css+html+r&theme=vue-dark" /> -->
 </a>
