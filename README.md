@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Siddhesh Zope</h1>
+<h1 align="center">Hi 👋, I'm Siddhesh </h1>
 <h3 align="center">Software developer, I'm. a computer programmer who is skilled professional who likes to codes, tests and debug. Passionate about development.</h3>
 
 
@@ -12,21 +12,21 @@
 
 <p align="left"> <a href="https://twitter.com/sid_zope" target="blank"><img src="https://img.shields.io/twitter/follow/sid_zope?logo=twitter&style=for-the-badge" alt="sid_zope" /></a> </p>
 
-- 🔭 I’m currently working on **Learning Blockchain**
+- 🔭 I’m currently working on **Blockchains,Web3**
 
 - 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Rust**
 
-- 🤝 I’m looking for help with **ethers-rs foundry blockchain**
+- 🤝 I’m looking for help with **substrate ethers-rs foundry blockchain**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/siddheshzz?tab=repositories)
 
-- 💬 Ask me about **Python, DS, Javascript, CRM**
+- 💬 Ask me about **Python, Salesforce, Pandas, CRM**
 
 - 📫 How to reach me **siddheshzope1023@gmail.com**
 
-- ⚡ Fun fact **I think I love ⛰️**
+- ⚡ Fun fact **I think I love ⛰️ and ☕ 🍪 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
