@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/sid_zope" target="blank"><img src="https://img.shields.io/twitter/follow/sid_zope?logo=twitter&style=for-the-badge" alt="sid_zope" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchains,Web3**
+
 
 - 🌱 I’m currently learning **Rust**
 
@@ -22,11 +22,11 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/siddheshzz?tab=repositories)
 
-- 💬 Ask me about **Python, Salesforce, Pandas, CRM**
+- 💬 Ask me about **Python, Salesforce, Pandas**
 
 - 📫 How to reach me **siddheshzope1023@gmail.com**
 
-- ⚡ Fun fact **I think I love ⛰️ and ☕ 🍪 **
+- ⚡ Fun fact **I think I love ⛰️ and ☕ 🍪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
