@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Siddhesh </h1>
-<h3 align="center">Software developer, I'm. a computer programmer who is skilled professional who likes to codes, tests and debug. Passionate about development.</h3>
+<h3 align="center">Software developer, I'm. a computer programmer.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/10/Boy-Working-From-Home.gif">
