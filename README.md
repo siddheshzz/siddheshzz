@@ -16,8 +16,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Rust**
-
 - 🤝 I’m looking for help with **substrate ethers-rs foundry blockchain**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/siddheshzz?tab=repositories)
