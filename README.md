@@ -69,3 +69,4 @@
 </a>
 </p>
 
+(https://github-readme-stats.vercel.app/api?username=siddheshzz&show_icons=true&rank_icon=percentile&theme=dracula)
