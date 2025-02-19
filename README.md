@@ -69,4 +69,4 @@
 </a>
 </p>
 
-![siddheshzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddheshzz&show_icons=true&rank_icon=percentile&theme=dracula)
+<!-- ![siddheshzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddheshzz&show_icons=true&rank_icon=percentile&theme=dracula) -->
