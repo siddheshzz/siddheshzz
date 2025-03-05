@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/sid_zope" target="blank"><img src="https://img.shields.io/twitter/follow/sid_zope?logo=twitter&style=for-the-badge" alt="sid_zope" /></a> </p>
 
-
+<!--
 
 - 🌱 I’m currently learning **Rust**
 
@@ -26,6 +26,7 @@
 
 - ⚡ Fun fact **I think I love ⛰️ and ☕ 🍪**
 
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sid_zope" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-241-721979.png?f=webp&w=256" alt="sid_zope" height="30" width="40" /></a>
