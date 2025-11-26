@@ -6,32 +6,9 @@
 <h3 align="center">Software developer</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/10/Boy-Working-From-Home.gif">
 
-<!-- Write your comments here <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshzz&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshzz" /> </p>-->
 
-<p align="left"> <a href="https://twitter.com/sid_zope" target="blank"><img src="https://img.shields.io/twitter/follow/sid_zope?logo=twitter&style=for-the-badge" alt="sid_zope" /></a> </p>
 
-<!--
-
-- 🌱 I’m currently learning **Rust**
-
-- 🤝 I’m looking for help with **substrate ethers-rs foundry blockchain**
-
-- 👨‍💻 All of my projects are available at [Here](https://github.com/siddheshzz?tab=repositories)
-
-- 💬 Ask me about **Python, Salesforce, Pandas**
-
-- 📫 How to reach me **siddheshzope1023@gmail.com**
-
-- ⚡ Fun fact **I think I love ⛰️ and ☕ 🍪**
-
--->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sid_zope" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-241-721979.png?f=webp&w=256" alt="sid_zope" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddhesh-zope-752321163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh-zope-752321163" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="border: 1px solid white ;background-color: #ffffff; width: 200px;
