@@ -16,6 +16,8 @@
  
 </div>
 
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust&logoColor=FFA518)&nbsp;
@@ -41,7 +43,7 @@
 
 <p align="center">
 <a href="https://github.com/siddheshzz">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siddheshzz&langs_count=8&layout=compact&hide=move,javascript,html,css&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+      <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siddheshzz&langs_count=8&layout=compact&hide=move,javascript,html,css&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" /> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siddheshzz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siddheshzz&layout=compact&exclude_lang=javascript+css+html+r&theme=vue-dark" /> -->
 </a>
